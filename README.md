@@ -44,14 +44,6 @@ npm run dev
 
 ---
 
-## 🌐 Deploying to Vercel (Recommended)
-
-1. Import this repository in [Vercel](https://vercel.com/new).
-2. Vercel automatically detects Next.js.
-3. Click **Deploy**. The site will be live instantly!
-
----
-
 ## 📚 References & Academic Literature
 - *Real-Time Rendering, 4th Edition* (Tomas Akenine-Möller, Eric Haines, Naty Hoffman)
 - *Game Engine Architecture, 3rd Edition* (Jason Gregory, Naughty Dog)
